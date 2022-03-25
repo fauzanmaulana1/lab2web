@@ -4,6 +4,8 @@ Praktikum 2 - Pemrograman Web
 - 312010115
 - TI.20.D.1
 
+![fauzan](https://user-images.githubusercontent.com/101807419/160141578-83f79f04-aad8-46bb-99b3-e2592bd0474f.JPG)
+
 # - Input CSS Dasar
 ![css56png](https://user-images.githubusercontent.com/101807419/160139098-13cb0577-e748-4eec-9052-3cba936e8835.png)
 ![css7png](https://user-images.githubusercontent.com/101807419/160139094-869fbea1-3af3-49da-a243-b41ab4e5d1ad.png)
