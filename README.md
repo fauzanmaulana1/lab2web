@@ -8,6 +8,10 @@ Praktikum 2 - Pemrograman Web
 ![css56png](https://user-images.githubusercontent.com/101807419/160139098-13cb0577-e748-4eec-9052-3cba936e8835.png)
 ![css7png](https://user-images.githubusercontent.com/101807419/160139094-869fbea1-3af3-49da-a243-b41ab4e5d1ad.png)
 ![css8png](https://user-images.githubusercontent.com/101807419/160139081-3cec8666-4429-432a-b399-4e2ffe3bffad.png)
+![css0png](https://user-images.githubusercontent.com/101807419/160140831-ef914bfe-458a-47fe-b3d7-cc60dff53fd3.png)
+![css01png](https://user-images.githubusercontent.com/101807419/160140826-73b6690a-5e1f-4b86-b101-2332d45c12fc.png)
+
+
 
 # - OUtput CSS Dasar
 
