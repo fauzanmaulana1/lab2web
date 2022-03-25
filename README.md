@@ -4,13 +4,12 @@ Praktikum 2 - Pemrograman Web
 - 312010115
 - TI.20.D.1
 
-- LANGKAH 1
-Membuat dokumen HTML dengan nama file lab2_css_dasar.html. Setelah itu buat struktur dasar HTML dan masukan codingnya.
+# - Input CSS Dasar
 ![css56png](https://user-images.githubusercontent.com/101807419/160139098-13cb0577-e748-4eec-9052-3cba936e8835.png)
 ![css7png](https://user-images.githubusercontent.com/101807419/160139094-869fbea1-3af3-49da-a243-b41ab4e5d1ad.png)
 ![css8png](https://user-images.githubusercontent.com/101807419/160139081-3cec8666-4429-432a-b399-4e2ffe3bffad.png)
 
--OUtput CSS Dasar
+# - OUtput CSS Dasar
 
 ![css5](https://user-images.githubusercontent.com/101807419/160139714-ae9213cb-c0a0-437b-b414-35a8a2e17d4c.png)
 ![css4](https://user-images.githubusercontent.com/101807419/160139732-92433d5d-41ab-4304-a18d-7a3150547229.png)
